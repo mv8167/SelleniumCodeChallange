@@ -3,9 +3,12 @@ test code for NexTraq
 
 The GitHubLoginTest, is working
 
-The GitHubTokenGeneration, I had issues finding how to get locatpors for the top-right Head(dropdown)->Settings, and seleectin selrctiong the Generate new token (dropdown)
+The GitHubTokenGeneration, I had issues finding how to get locators for the "top-right Head(dropdown)->Settings", and  the "Generate new token" (dropdown)
 
-Xpath
+
+
+
+# Notes, Xpaths for GitHubTokenGeneration
 
 *Developer Settings, link
 //span[normalize-space()='Developer settings']
@@ -39,8 +42,7 @@ Please create a new project (using source control) and complete the automation t
 GitHub browser testing
 GitHub will be used for automating the following tasks. If you're logged into your account please be sure to log out before attempting the automations.
 
-Automation tests
-Please automate all items under the topics below (e.g. bullet points with a checkbox 😎).
+Automation testsPlease automate all items under the topics below (e.g. bullet points with a checkbox 😎).
 
 (IMPORTANT) Please do not use your existing account. Create a new GitHub user with the username of your choice and password of your choice.
 
