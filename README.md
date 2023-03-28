@@ -31,7 +31,9 @@ user, checkbox
 Generate token, button
 //button[normalize-space()='Generate token']
 
-#Challenge
+
+# The Challenge
+
 Please create a new project (using source control) and complete the automation tasks described below. Don't hesitate to reach out with potential questions.
 
 GitHub browser testing
